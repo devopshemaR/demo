@@ -1,4 +1,5 @@
 git commands
 
+git init
 git add 
 gitcommit
